@@ -25,7 +25,7 @@ SECRET_KEY = 'xa532(&8b9i2jko^(g29=h*y4()d$k%nyoqoxuri%5q_kz$h%$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['calm-mountain-51078.herokuapp.com']
 
 
 # Application definition
